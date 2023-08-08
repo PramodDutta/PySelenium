@@ -47,7 +47,15 @@ def test_vwologin():
     # find_element by_tag_name: Finds an element by its HTML tag name (e.g., "div", "input", "a", etc.).
     # find_element by_class_name: Finds an element by its CSS class name.
 
-    email_address_ele = driver.find_element(By.ID, "login-username")
+    #email_address_ele = driver.find_element(By.ID, "login-username")
+
+    email_address_ele = driver.find_element(By.XPATH, "//input[@id='login-username']")
+    email_address_ele = driver.find_element(By.XPATH, "//input[@name='username']")
+    email_address_ele = driver.find_element(By.XPATH, "//input[@data-qa='hocewoqisi']")
+
+
+
+
     password_ele = driver.find_element(By.NAME, "password")
 
     sign_in_button_ele = driver.find_element(By.ID, "js-login-btn")
