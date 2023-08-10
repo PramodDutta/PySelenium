@@ -9,7 +9,6 @@
 # Create a Report to send to QA Lead - HTML --> Allure Report
 
 import logging
-import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -17,7 +16,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 
-def test_idrive():
+def test_vwologin():
     LOGGER = logging.getLogger(__name__)
     # Selenium API - Create Session
     driver = webdriver.Chrome()
@@ -30,27 +29,24 @@ def test_idrive():
     # Open the Browser
     # Navigate to a URL
     # Command - driver.get ( Navigate command to Existing Session)
-    driver.get("https://www.idrive360.com/enterprise/login")
+    driver.get("https://app.vwo.com/#/login")
 
     username = driver.find_element(By.NAME, "username")
-    username.send_keys("augtest_040823@idrive.com")
+    username.send_keys("93npu2yyb0@esiix.com")
 
     password = driver.find_element(By.NAME, "password")
-    password.send_keys("123456")
+    password.send_keys("Wingify@123")
 
     # submit_button = driver.find_element(By.ID, "frm-btn")
-    submit_button = driver.find_element(By.CSS_SELECTOR, "#frm-btn")
+    submit_button = driver.find_element(By.CSS_SELECTOR, "#js-login-btn")
     submit_button.click()
 
-    add_button = WebDriverWait(driver, 20).until(
-        EC.visibility_of(driver.find_element(By.XPATH, "//a[@id='add-device-header-btn']"))
+    # .page-heading
+
+    WebDriverWait(driver, 10).until(
+        EC.text_to_be_present_in_element((By.CSS_SELECTOR, ".page-heading"), "Dashboard")
     )
-    add_button.click()
 
-    download_btn = driver.find_element(By.XPATH, "//*[@id='id-card-bdy-backup-agent-mac']/button")
-    download_btn.click()
+    page_heading_element = driver.find_element(By.CSS_SELECTOR, ".page-heading")
+    assert "Dashboard" in page_heading_element.text
 
-    time.sleep(100)
-
-    # Chrome Dir -> Download
-    # Install Software, call a bat file , sh linux
