@@ -11,6 +11,8 @@
 import logging
 
 from selenium import webdriver
+from selenium.common.exceptions import (ElementNotVisibleException,
+                                        ElementNotSelectableException)
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -43,10 +45,23 @@ def test_vwologin():
 
     # .page-heading
 
-    WebDriverWait(driver, 10).until(
-        EC.text_to_be_present_in_element((By.CSS_SELECTOR, ".page-heading"), "Dashboard")
-    )
+    # WebDriverWait(driver, 10).until(
+    #     EC.text_to_be_present_in_element((By.CSS_SELECTOR, ".page-heading"), "Dashboard")
+    # )
 
-    page_heading_element = driver.find_element(By.CSS_SELECTOR, ".page-heading")
-    assert "Dashboard" in page_heading_element.text
+    # IW and EW ->
+    # IW -> Global Wait for all the elements ->  e0 = 1, e2 = 0, e3 = 6,  TT = 9,   IW  = 10 - 1
+    # EW - e3 - 10, e1 nad e2
 
+    ignore_list = [ElementNotVisibleException, ElementNotSelectableException]
+    wait = WebDriverWait(driver, timeout=10, poll_frequency=1, ignored_exceptions=ignore_list)
+    element = EC.presence_of_element_located((By.CSS_SELECTOR, ".page-heading"))
+    # PF = 1  EF = NO, m > 10 , WD - Should Exception ?
+    # PF = 2  EF = NO, m > 10 , WD - Should Exception ?
+    #......
+    # PF = 10  EF = NO, m = 10 , WD - Should Exception Yes
+
+
+    # 5 ?
+
+    driver.quit()

@@ -42,12 +42,15 @@ def test_idrive():
     submit_button = driver.find_element(By.CSS_SELECTOR, "#frm-btn")
     submit_button.click()
 
-    add_button = WebDriverWait(driver, 20).until(
-        EC.visibility_of(driver.find_element(By.XPATH, "//a[@id='add-device-header-btn']"))
+    add_button = WebDriverWait(driver, 15).until(
+        EC.visibility_of_element_located((By.XPATH, "//a[@id='add-device-header-btn']"))
     )
+
     add_button.click()
 
-    download_btn = driver.find_element(By.XPATH, "//*[@id='id-card-bdy-backup-agent-mac']/button")
+    download_btn = WebDriverWait(driver, 5).until(
+        EC.visibility_of_element_located((By.XPATH, "//*[@id='id-card-bdy-backup-agent-mac']/button"))
+    )
     download_btn.click()
 
     time.sleep(100)
