@@ -1,12 +1,4 @@
-import pytest
-from selenium import webdriver
 import logging
-
-@pytest.fixture()
-def driver():
-    driver = webdriver.Chrome()
-    yield driver
-    # return driver # Value will be stored permantly, extra variable
 
 
 def test_open_url_verify_title(driver):

@@ -1,0 +1,564 @@
+1692083032532	geckodriver	INFO	Listening on 127.0.0.1:53990
+1692083032593	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilegti2Bd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083033567	Marionette	INFO	Marionette enabled
+2023-08-15 12:33:53.808 plugin-container[13537:30848024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:33:53.809 plugin-container[13537:30848024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:33:53.816 plugin-container[13537:30848024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:33:53.816 plugin-container[13537:30848024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:33:53.816 plugin-container[13537:30848021] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:33:53.816 plugin-container[13537:30848021] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692083034156	Marionette	INFO	Listening on port 53996
+WebDriver BiDi listening on ws://127.0.0.1:53991
+Read port: 53996
+1692083034402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:53991/devtools/browser/76b83d09-6231-4181-bfcc-bfd794a59950
+1692083038376	Marionette	INFO	Stopped listening on port 53996
+!!! error running onStopped callback: TypeError: callback is not a function
+1692083153016	geckodriver	INFO	Listening on 127.0.0.1:54046
+1692083153071	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofiletLAQzY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083153910	Marionette	INFO	Marionette enabled
+2023-08-15 12:35:54.308 plugin-container[15474:30855745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:35:54.309 plugin-container[15474:30855745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:35:54.315 plugin-container[15474:30855745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:35:54.315 plugin-container[15474:30855745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:35:54.316 plugin-container[15474:30855756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:35:54.316 plugin-container[15474:30855756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692083154456	Marionette	INFO	Listening on port 54052
+WebDriver BiDi listening on ws://127.0.0.1:54047
+Read port: 54052
+1692083154689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54047/devtools/browser/1aa141c8-66ef-4b24-badc-0e3b2f4410de
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdpn.io."
+1692083162507	Marionette	INFO	Stopped listening on port 54052
+1692083210515	geckodriver	INFO	Listening on 127.0.0.1:54104
+1692083210568	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileyYbwLq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083211218	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:36:51.430 plugin-container[16375:30859384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:36:51.431 plugin-container[16375:30859384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:36:51.436 plugin-container[16375:30859384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:36:51.436 plugin-container[16375:30859384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:36:51.436 plugin-container[16375:30859389] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:36:51.436 plugin-container[16375:30859389] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083211461	Marionette	INFO	Listening on port 54111
+WebDriver BiDi listening on ws://127.0.0.1:54105
+Read port: 54111
+1692083211669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54105/devtools/browser/69323fba-d279-43d4-8a15-c522d88d2612
+console.error: ({})
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdpn.io."
+1692083217823	Marionette	INFO	Stopped listening on port 54111
+!!! error running onStopped callback: TypeError: callback is not a function
+1692083248567	geckodriver	INFO	Listening on 127.0.0.1:54151
+1692083248621	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilegvBLzF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083249576	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:37:29.929 plugin-container[16990:30861727] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:37:29.930 plugin-container[16990:30861727] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:37:29.957 plugin-container[16990:30861727] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:37:29.957 plugin-container[16990:30861727] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:37:29.958 plugin-container[16990:30861724] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:37:29.958 plugin-container[16990:30861724] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083249970	Marionette	INFO	Listening on port 54158
+Read port: 54158
+WebDriver BiDi listening on ws://127.0.0.1:54152
+1692083250248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54152/devtools/browser/0f129fe9-207c-466f-b988-ac0f941d4208
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://cdpn.io."
+1692083260775	Marionette	INFO	Stopped listening on port 54158
+1692083450072	geckodriver	INFO	Listening on 127.0.0.1:54223
+1692083450123	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofile9easMP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083450962	Marionette	INFO	Marionette enabled
+2023-08-15 12:40:51.266 plugin-container[19964:30872856] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:40:51.267 plugin-container[19964:30872856] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:40:51.274 plugin-container[19964:30872856] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:40:51.274 plugin-container[19964:30872856] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:40:51.275 plugin-container[19964:30872871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:40:51.275 plugin-container[19964:30872871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692083451465	Marionette	INFO	Listening on port 54229
+Read port: 54229
+WebDriver BiDi listening on ws://127.0.0.1:54224
+1692083451600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54224/devtools/browser/84433b61-396f-4099-99b8-aae8c5a15f34
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:10:59.535 plugin-container[20093:30873616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:10:59.535 plugin-container[20093:30873616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:10:59.567 plugin-container[20093:30873616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:10:59.567 plugin-container[20093:30873616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:10:59.567 plugin-container[20093:30873610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:10:59.567 plugin-container[20093:30873610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+1692083461782	Marionette	INFO	Stopped listening on port 54229
+JavaScript warning: https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js, line 2: Script terminated by timeout at:
+2b0e/</Un/Hn.get@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js:2:32267
+checkRouteLoaded@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45100
+6bf7/</checkRouteLoaded/this.routeLoadedTimeout<@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45239
+
+1692083497425	geckodriver	INFO	Listening on 127.0.0.1:54306
+1692083497493	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilednyORD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083498375	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:41:38.616 plugin-container[20724:30875674] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:41:38.617 plugin-container[20724:30875674] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:41:38.634 plugin-container[20724:30875674] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:41:38.634 plugin-container[20724:30875674] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:41:38.634 plugin-container[20724:30875670] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:41:38.634 plugin-container[20724:30875670] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083498667	Marionette	INFO	Listening on port 54313
+WebDriver BiDi listening on ws://127.0.0.1:54307
+Read port: 54313
+1692083498947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54307/devtools/browser/33af737b-5b50-451b-9a7b-16033f1e89eb
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:11:43.377 plugin-container[20803:30876197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:11:43.377 plugin-container[20803:30876197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:11:43.383 plugin-container[20803:30876197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:11:43.383 plugin-container[20803:30876197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:11:43.384 plugin-container[20803:30876210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:11:43.384 plugin-container[20803:30876210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083503931	Marionette	INFO	Stopped listening on port 54313
+JavaScript warning: https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js, line 2: Script terminated by timeout at:
+get@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js:2:74471
+value@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-common.js:2:79068
+9be8/</value/this.connectionCookieInterval<@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-common.js:2:144632
+
+1692083566972	geckodriver	INFO	Listening on 127.0.0.1:54411
+1692083567027	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofile6B36tV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083567726	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:42:47.970 plugin-container[21796:30879432] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:42:47.970 plugin-container[21796:30879432] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:42:47.976 plugin-container[21796:30879432] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:42:47.976 plugin-container[21796:30879432] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:42:47.976 plugin-container[21796:30879438] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:42:47.977 plugin-container[21796:30879438] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083568023	Marionette	INFO	Listening on port 54418
+WebDriver BiDi listening on ws://127.0.0.1:54412
+Read port: 54418
+1692083568353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54412/devtools/browser/63165846-eba9-4c2d-bf4d-fee5a62139e7
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:12:53.329 plugin-container[21878:30880037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:12:53.329 plugin-container[21878:30880037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:12:53.337 plugin-container[21878:30880037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:12:53.337 plugin-container[21878:30880037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:12:53.338 plugin-container[21878:30880046] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:12:53.338 plugin-container[21878:30880046] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+1692083579994	Marionette	INFO	Stopped listening on port 54418
+JavaScript warning: https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js, line 2: Script terminated by timeout at:
+2b0e/</Un/Hn.get@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js:2:32267
+checkRouteLoaded@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45100
+6bf7/</checkRouteLoaded/this.routeLoadedTimeout<@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45239
+
+1692083658226	geckodriver	INFO	Listening on 127.0.0.1:54517
+1692083658278	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileKrQ0FH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083659150	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:44:19.424 plugin-container[23191:30885852] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:44:19.424 plugin-container[23191:30885852] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:44:19.466 plugin-container[23191:30885852] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:44:19.467 plugin-container[23191:30885852] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:44:19.467 plugin-container[23191:30885845] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:44:19.467 plugin-container[23191:30885845] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083659472	Marionette	INFO	Listening on port 54524
+WebDriver BiDi listening on ws://127.0.0.1:54518
+Read port: 54524
+1692083659727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54518/devtools/browser/aa9493b9-617d-4b47-a032-18bad16bcd89
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:14:25.514 plugin-container[23278:30886478] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:14:25.514 plugin-container[23278:30886478] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:14:25.543 plugin-container[23278:30886478] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:14:25.543 plugin-container[23278:30886478] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:14:25.543 plugin-container[23278:30886475] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:14:25.543 plugin-container[23278:30886475] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+2023-08-15 07:14:31.814 plugin-container[23367:30886904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:14:31.814 plugin-container[23367:30886904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:14:31.842 plugin-container[23367:30886904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:14:31.842 plugin-container[23367:30886904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:14:31.843 plugin-container[23367:30886908] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:14:31.843 plugin-container[23367:30886908] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083672169	Marionette	INFO	Stopped listening on port 54524
+1692083740327	geckodriver	INFO	Listening on 127.0.0.1:54622
+1692083740386	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileaZuaUs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083741088	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:45:41.373 plugin-container[24454:30890673] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:45:41.373 plugin-container[24454:30890673] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:45:41.380 plugin-container[24454:30890673] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:45:41.380 plugin-container[24454:30890673] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:45:41.381 plugin-container[24454:30890686] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:45:41.381 plugin-container[24454:30890686] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083741424	Marionette	INFO	Listening on port 54628
+Read port: 54628
+WebDriver BiDi listening on ws://127.0.0.1:54623
+1692083741640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54623/devtools/browser/a5c03a20-c640-4e03-9de2-a68d28cbcf1b
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:15:45.995 plugin-container[24527:30891201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:15:45.996 plugin-container[24527:30891201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:15:46.019 plugin-container[24527:30891201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:15:46.019 plugin-container[24527:30891201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:15:46.022 plugin-container[24527:30891192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:15:46.022 plugin-container[24527:30891192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+1692083752719	Marionette	INFO	Stopped listening on port 54628
+1692083768978	geckodriver	INFO	Listening on 127.0.0.1:54718
+1692083769034	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilemd6ta6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083769794	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692083770180	Marionette	INFO	Listening on port 54724
+WebDriver BiDi listening on ws://127.0.0.1:54719
+2023-08-15 12:46:10.199 plugin-container[24932:30893201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:46:10.216 plugin-container[24932:30893201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:46:10.227 plugin-container[24932:30893201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:46:10.227 plugin-container[24932:30893201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:46:10.228 plugin-container[24932:30893214] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:46:10.228 plugin-container[24932:30893214] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54724
+1692083770575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54719/devtools/browser/025ed7af-4e36-42ab-82f7-0ccd390c2acf
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:16:16.017 plugin-container[25027:30893854] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:16:16.017 plugin-container[25027:30893854] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:16:16.025 plugin-container[25027:30893854] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:16:16.025 plugin-container[25027:30893854] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:16:16.026 plugin-container[25027:30893861] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:16:16.026 plugin-container[25027:30893861] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+1692083788232	Marionette	INFO	Stopped listening on port 54724
+1692083880284	geckodriver	INFO	Listening on 127.0.0.1:54862
+1692083880334	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilea9jVA8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692083881042	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:48:01.330 plugin-container[26608:30899100] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:48:01.331 plugin-container[26608:30899100] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:48:01.338 plugin-container[26608:30899100] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:48:01.338 plugin-container[26608:30899100] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:48:01.338 plugin-container[26608:30899108] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:48:01.338 plugin-container[26608:30899108] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083881377	Marionette	INFO	Listening on port 54868
+WebDriver BiDi listening on ws://127.0.0.1:54863
+Read port: 54868
+1692083881728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54863/devtools/browser/cf450e3c-637c-4cfb-91a4-ae5a89657874
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:18:06.995 plugin-container[26699:30899701] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:18:06.996 plugin-container[26699:30899701] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:18:07.002 plugin-container[26699:30899701] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:18:07.002 plugin-container[26699:30899701] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:18:07.019 plugin-container[26699:30899705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:18:07.019 plugin-container[26699:30899705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+2023-08-15 07:18:16.243 plugin-container[26824:30900162] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:18:16.243 plugin-container[26824:30900162] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:18:16.248 plugin-container[26824:30900162] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:18:16.248 plugin-container[26824:30900162] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:18:16.248 plugin-container[26824:30900166] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:18:16.248 plugin-container[26824:30900166] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692083897972	Marionette	INFO	Stopped listening on port 54868
+JavaScript warning: https://www.aqi.in/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://www.aqi.in/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1692084039209	geckodriver	INFO	Listening on 127.0.0.1:54961
+1692084039263	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileiYTb6M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692084040162	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:50:40.373 plugin-container[28970:30908237] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:50:40.374 plugin-container[28970:30908237] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:50:40.397 plugin-container[28970:30908237] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:50:40.397 plugin-container[28970:30908237] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:50:40.398 plugin-container[28970:30908246] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:50:40.398 plugin-container[28970:30908246] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084040454	Marionette	INFO	Listening on port 54967
+Read port: 54967
+WebDriver BiDi listening on ws://127.0.0.1:54962
+1692084040642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54962/devtools/browser/97e377e8-c002-40b0-91c2-7bc25a6622d0
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:20:45.814 plugin-container[29068:30908821] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:20:45.815 plugin-container[29068:30908821] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:20:45.820 plugin-container[29068:30908821] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:20:45.820 plugin-container[29068:30908821] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:20:45.820 plugin-container[29068:30908825] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:20:45.820 plugin-container[29068:30908825] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+2023-08-15 07:20:48.395 plugin-container[29096:30908976] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:20:48.395 plugin-container[29096:30908976] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:20:48.402 plugin-container[29096:30908976] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:20:48.402 plugin-container[29096:30908976] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:20:48.402 plugin-container[29096:30908977] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:20:48.402 plugin-container[29096:30908977] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084065764	Marionette	INFO	Stopped listening on port 54967
+1692084070406	geckodriver	INFO	Listening on 127.0.0.1:55046
+1692084070461	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilesBqEs3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692084071158	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:51:11.400 plugin-container[29497:30910386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:51:11.401 plugin-container[29497:30910386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:51:11.405 plugin-container[29497:30910386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:51:11.405 plugin-container[29497:30910386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:51:11.406 plugin-container[29497:30910394] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:51:11.406 plugin-container[29497:30910394] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084071449	Marionette	INFO	Listening on port 55052
+WebDriver BiDi listening on ws://127.0.0.1:55047
+Read port: 55052
+1692084071713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55047/devtools/browser/53ccfd11-4adc-4c6e-aa02-460c62d920ff
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+2023-08-15 07:21:16.153 plugin-container[29589:30910960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:21:16.153 plugin-container[29589:30910960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:21:16.158 plugin-container[29589:30910960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:21:16.158 plugin-container[29589:30910960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:21:16.159 plugin-container[29589:30910961] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:21:16.159 plugin-container[29589:30910961] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+2023-08-15 07:21:20.496 plugin-container[29652:30911210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:21:20.496 plugin-container[29652:30911210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:21:20.502 plugin-container[29652:30911210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:21:20.503 plugin-container[29652:30911210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:21:20.503 plugin-container[29652:30911218] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:21:20.503 plugin-container[29652:30911218] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.aqi.in/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://www.aqi.in/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1692084096104	Marionette	INFO	Stopped listening on port 55052
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692084368334	geckodriver	INFO	Listening on 127.0.0.1:55251
+1692084368380	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofile1C0SSS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692084369134	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:56:09.425 plugin-container[33981:30927581] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:56:09.426 plugin-container[33981:30927581] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:56:09.434 plugin-container[33981:30927581] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:56:09.434 plugin-container[33981:30927581] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:56:09.435 plugin-container[33981:30927574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:56:09.435 plugin-container[33981:30927574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084369520	Marionette	INFO	Listening on port 55258
+Read port: 55258
+WebDriver BiDi listening on ws://127.0.0.1:55252
+1692084369796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55252/devtools/browser/2e73fa47-21b0-48d5-8ec6-6487c78e7eeb
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+2023-08-15 07:26:17.582 plugin-container[34114:30928329] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:26:17.582 plugin-container[34114:30928329] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:26:17.605 plugin-container[34114:30928329] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:26:17.605 plugin-container[34114:30928329] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:26:17.605 plugin-container[34114:30928332] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:26:17.605 plugin-container[34114:30928332] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+2023-08-15 07:26:21.605 plugin-container[34171:30928569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:26:21.605 plugin-container[34171:30928569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:26:21.611 plugin-container[34171:30928569] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:26:21.611 plugin-container[34171:30928569] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:26:21.611 plugin-container[34171:30928579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:26:21.611 plugin-container[34171:30928579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084386835	Marionette	INFO	Stopped listening on port 55258
+JavaScript warning: https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js, line 2: Script terminated by timeout at:
+2b0e/</Un/Hn.get@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js:2:32267
+checkRouteLoaded@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45100
+6bf7/</checkRouteLoaded/this.routeLoadedTimeout<@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45239
+
+1692084508871	geckodriver	INFO	Listening on 127.0.0.1:55401
+1692084508939	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofile5MOPqC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692084509796	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:58:30.188 plugin-container[36103:30935961] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:58:30.190 plugin-container[36103:30935961] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:58:30.218 plugin-container[36103:30935961] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:58:30.220 plugin-container[36103:30935961] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:58:30.220 plugin-container[36103:30935972] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:58:30.220 plugin-container[36103:30935972] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084510228	Marionette	INFO	Listening on port 55407
+Read port: 55407
+WebDriver BiDi listening on ws://127.0.0.1:55402
+1692084510499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55402/devtools/browser/836d8aef-0422-4a1b-a309-f182b08303cb
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+2023-08-15 07:28:37.881 plugin-container[36220:30936867] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:28:37.881 plugin-container[36220:30936867] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:28:37.888 plugin-container[36220:30936867] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:28:37.888 plugin-container[36220:30936867] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:28:37.889 plugin-container[36220:30936875] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:28:37.889 plugin-container[36220:30936875] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:28:39.339 plugin-container[36240:30936990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:28:39.339 plugin-container[36240:30936990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:28:39.363 plugin-container[36240:30936990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:28:39.363 plugin-container[36240:30936990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:28:39.364 plugin-container[36240:30936993] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:28:39.364 plugin-container[36240:30936993] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+1692084521778	Marionette	INFO	Stopped listening on port 55407
+1692084559969	geckodriver	INFO	Listening on 127.0.0.1:55498
+1692084560526	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofiledTF2tL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692084561130	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 12:59:21.421 plugin-container[36920:30939179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:59:21.421 plugin-container[36920:30939179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:59:21.428 plugin-container[36920:30939179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:59:21.428 plugin-container[36920:30939179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 12:59:21.428 plugin-container[36920:30939188] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 12:59:21.428 plugin-container[36920:30939188] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084561469	Marionette	INFO	Listening on port 55506
+WebDriver BiDi listening on ws://127.0.0.1:55499
+Read port: 55506
+1692084561819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55499/devtools/browser/630af9d1-37d1-4f2d-96aa-618a258fd550
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+2023-08-15 07:29:26.530 plugin-container[37010:30939800] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:29:26.530 plugin-container[37010:30939800] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:29:26.536 plugin-container[37010:30939800] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:29:26.536 plugin-container[37010:30939800] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:29:26.537 plugin-container[37010:30939805] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:29:26.537 plugin-container[37010:30939805] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+2023-08-15 07:29:33.087 plugin-container[37098:30940173] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:29:33.088 plugin-container[37098:30940173] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:29:33.093 plugin-container[37098:30940173] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:29:33.093 plugin-container[37098:30940173] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:29:33.110 plugin-container[37098:30940176] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:29:33.110 plugin-container[37098:30940176] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084579280	Marionette	INFO	Stopped listening on port 55506
+JavaScript warning: https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js, line 1: Script terminated by timeout at:
+6bf7/</checkRouteLoaded/this.routeLoadedTimeout<@https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js:1:45237
+
+1692084605369	geckodriver	INFO	Listening on 127.0.0.1:55593
+1692084605432	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilepwf5Sy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692084606235	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-15 13:00:06.517 plugin-container[37643:30942089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 13:00:06.518 plugin-container[37643:30942089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 13:00:06.524 plugin-container[37643:30942089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 13:00:06.524 plugin-container[37643:30942089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 13:00:06.524 plugin-container[37643:30942109] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 13:00:06.524 plugin-container[37643:30942109] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084606574	Marionette	INFO	Listening on port 55599
+WebDriver BiDi listening on ws://127.0.0.1:55594
+Read port: 55599
+1692084606866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55594/devtools/browser/a5ecaa4e-147e-40ec-9ad5-486e20ec998d
+JavaScript error: https://www.aqi.in/assets/js/jquery-3.5.1.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.aqi.in/real-time-most-polluted-city-ranking line 1 > injectedScript, line 150: TypeError: document.getElementById(...) is null
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+2023-08-15 07:30:14.563 plugin-container[37773:30942904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:30:14.563 plugin-container[37773:30942904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:30:14.593 plugin-container[37773:30942904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:30:14.593 plugin-container[37773:30942904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:30:14.593 plugin-container[37773:30942911] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:30:14.593 plugin-container[37773:30942911] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:30:17.939 plugin-container[37817:30943177] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:30:17.939 plugin-container[37817:30943177] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:30:17.945 plugin-container[37817:30943177] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:30:17.945 plugin-container[37817:30943177] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-15 07:30:17.962 plugin-container[37817:30943180] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-15 07:30:17.962 plugin-container[37817:30943180] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692084634521	Marionette	INFO	Stopped listening on port 55599
+!!! error running onStopped callback: TypeError: callback is not a function
