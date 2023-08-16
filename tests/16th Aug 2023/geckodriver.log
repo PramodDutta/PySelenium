@@ -114,3 +114,212 @@ WebDriver BiDi listening on ws://127.0.0.1:61900
 console.error: Policies.jsm: 
   Installation failed - ERROR_FILE_ACCESS - {url}
 DevTools listening on ws://127.0.0.1:61900/devtools/browser/6adf599d-b5c9-4ae8-8ad5-97ebb4c0c9f8
+1692153697959	Marionette	INFO	Stopped listening on port 61909
+1692153699810	Marionette	INFO	Stopped listening on port 59832
+!!! error running onStopped callback: TypeError: callback is not a function
+1692153702654	Marionette	INFO	Stopped listening on port 58023
+1692153709358	Marionette	INFO	Stopped listening on port 57513
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1692154587669	geckodriver	INFO	Listening on 127.0.0.1:54681
+1692154587729	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileOnc6EL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692154588322	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:26:28.821 plugin-container[92618:33856270] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:26:28.822 plugin-container[92618:33856270] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:26:28.828 plugin-container[92618:33856270] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:26:28.828 plugin-container[92618:33856270] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:26:28.829 plugin-container[92618:33856265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:26:28.829 plugin-container[92618:33856265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692154588922	Marionette	INFO	Listening on port 54700
+Read port: 54700
+WebDriver BiDi listening on ws://127.0.0.1:54682
+1692154589168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:54682/devtools/browser/601eb104-b24e-4136-b8f2-918cf5cc6ade
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692154683621	geckodriver	INFO	Listening on 127.0.0.1:55132
+1692154683676	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileGeKKDT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692154684474	Marionette	INFO	Marionette enabled
+2023-08-16 08:28:04.739 plugin-container[94101:33862463] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:28:04.740 plugin-container[94101:33862463] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:28:04.764 plugin-container[94101:33862463] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:28:04.764 plugin-container[94101:33862463] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:28:04.764 plugin-container[94101:33862465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:28:04.764 plugin-container[94101:33862465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692154684866	Marionette	INFO	Listening on port 55148
+WebDriver BiDi listening on ws://127.0.0.1:55133
+Read port: 55148
+1692154685103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55133/devtools/browser/bd3ee291-054d-4025-8741-49f5e3327861
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692154713821	geckodriver	INFO	Listening on 127.0.0.1:55299
+1692154713877	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileTz39wa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692154714626	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:28:34.922 plugin-container[94611:33864633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:28:34.923 plugin-container[94611:33864633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:28:34.934 plugin-container[94611:33864633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:28:34.934 plugin-container[94611:33864633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:28:34.935 plugin-container[94611:33864637] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:28:34.935 plugin-container[94611:33864637] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692154714974	Marionette	INFO	Listening on port 55314
+WebDriver BiDi listening on ws://127.0.0.1:55300
+Read port: 55314
+1692154715198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:55300/devtools/browser/61f93c81-9780-4ff8-bd4f-aef376354e34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692154757161	Marionette	INFO	Stopped listening on port 55314
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692154759217	Marionette	INFO	Stopped listening on port 55148
+1692154760478	Marionette	INFO	Stopped listening on port 54700
+1692154762471	Marionette	INFO	Stopped listening on port 58561
+1692154764998	Marionette	INFO	Stopped listening on port 54558
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 180))
+1692154915435	geckodriver	INFO	Listening on 127.0.0.1:56163
+1692154915493	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileisckEU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692154916250	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:31:56.501 plugin-container[97605:33874890] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:31:56.502 plugin-container[97605:33874890] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:31:56.526 plugin-container[97605:33874890] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:31:56.526 plugin-container[97605:33874890] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:31:56.526 plugin-container[97605:33874885] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:31:56.526 plugin-container[97605:33874885] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692154916540	Marionette	INFO	Listening on port 56174
+WebDriver BiDi listening on ws://127.0.0.1:56164
+Read port: 56174
+1692154916861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:56164/devtools/browser/a6ced396-6d55-4abf-a219-5189b2f6dfd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692155028196	geckodriver	INFO	Listening on 127.0.0.1:56668
+1692155028250	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileqQWUac"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692155028969	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:33:49.160 plugin-container[99246:33880904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:33:49.161 plugin-container[99246:33880904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:33:49.183 plugin-container[99246:33880904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:33:49.184 plugin-container[99246:33880904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:33:49.184 plugin-container[99246:33880911] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:33:49.184 plugin-container[99246:33880911] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692155029203	Marionette	INFO	Listening on port 56678
+WebDriver BiDi listening on ws://127.0.0.1:56669
+Read port: 56678
+1692155029496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:56669/devtools/browser/d5429b40-9173-4a71-90c5-97cd4976a76b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692155263195	geckodriver	INFO	Listening on 127.0.0.1:57657
+1692155263236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileZMuqIK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692155263816	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:37:44.067 plugin-container[3319:33893493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:37:44.068 plugin-container[3319:33893493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:37:44.111 plugin-container[3319:33893493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:37:44.112 plugin-container[3319:33893493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:37:44.112 plugin-container[3319:33893496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:37:44.112 plugin-container[3319:33893496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692155264156	Marionette	INFO	Listening on port 57663
+Read port: 57663
+WebDriver BiDi listening on ws://127.0.0.1:57658
+1692155264393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:57658/devtools/browser/4da80f05-27ac-4a48-a48a-a84eeffea88b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692155303214	Marionette	INFO	Stopped listening on port 57663
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 180))
+1692155304962	Marionette	INFO	Stopped listening on port 56678
+1692155308000	Marionette	INFO	Stopped listening on port 56174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692155339304	geckodriver	INFO	Listening on 127.0.0.1:58029
+1692155339358	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileSKxv5b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692155340108	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:39:00.351 plugin-container[4588:33898655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:39:00.352 plugin-container[4588:33898655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:39:00.359 plugin-container[4588:33898655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:39:00.359 plugin-container[4588:33898655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:39:00.360 plugin-container[4588:33898661] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:39:00.360 plugin-container[4588:33898661] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692155340398	Marionette	INFO	Listening on port 58040
+Read port: 58040
+WebDriver BiDi listening on ws://127.0.0.1:58030
+1692155340602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:58030/devtools/browser/c6d26cd3-e05f-4ed7-8f81-659f747bd45e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692155384656	Marionette	INFO	Stopped listening on port 58040
+1692155574377	geckodriver	INFO	Listening on 127.0.0.1:58444
+1692155574430	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofile4NTkKS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692155574989	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 08:42:55.199 plugin-container[8081:33912582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:42:55.200 plugin-container[8081:33912582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:42:55.206 plugin-container[8081:33912582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:42:55.207 plugin-container[8081:33912582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 08:42:55.207 plugin-container[8081:33912580] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 08:42:55.207 plugin-container[8081:33912580] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692155575265	Marionette	INFO	Listening on port 58452
+Read port: 58452
+WebDriver BiDi listening on ws://127.0.0.1:58445
+1692155575450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:58445/devtools/browser/b8ff5d66-c98b-436c-b597-1203d097d03c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awesomeqa.com."
+1692155606223	Marionette	INFO	Stopped listening on port 58452
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: blocklists/addons-bloomfilters pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
