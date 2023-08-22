@@ -225,3 +225,47 @@ invokeTask@https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/2087.57bde26d1bcb7dd80d
 y@https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/2087.57bde26d1bcb7dd80d16.js:2:268081
 h@https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/2087.57bde26d1bcb7dd80d16.js:2:268420
 
+1692241029554	geckodriver	INFO	Listening on 127.0.0.1:59499
+1692241030132	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilejE4Dii"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692241031832	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-17 08:27:12.316 plugin-container[44845:38854471] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-17 08:27:12.317 plugin-container[44845:38854471] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-17 08:27:12.356 plugin-container[44845:38854471] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-17 08:27:12.356 plugin-container[44845:38854471] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-17 08:27:12.357 plugin-container[44845:38854468] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-17 08:27:12.357 plugin-container[44845:38854468] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692241032416	Marionette	INFO	Listening on port 59510
+Read port: 59510
+WebDriver BiDi listening on ws://127.0.0.1:59500
+1692241032836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:59500/devtools/browser/9011fd2a-9e3a-4bfc-a6d8-258762a013fb
+1692241039506	Marionette	INFO	Stopped listening on port 59510
+1692241159571	geckodriver	INFO	Listening on 127.0.0.1:59626
+1692241159663	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileNmmU8J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692241160946	Marionette	INFO	Marionette enabled
+2023-08-17 08:29:21.441 plugin-container[46362:38861756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-17 08:29:21.442 plugin-container[46362:38861756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-17 08:29:21.455 plugin-container[46362:38861756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-17 08:29:21.455 plugin-container[46362:38861756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-17 08:29:21.457 plugin-container[46362:38861754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-17 08:29:21.457 plugin-container[46362:38861754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692241161609	Marionette	INFO	Listening on port 59632
+Read port: 59632
+WebDriver BiDi listening on ws://127.0.0.1:59627
+1692241162071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:59627/devtools/browser/5d909000-f037-42ae-ba44-c66d61626baa
+1692241168658	Marionette	INFO	Stopped listening on port 59632

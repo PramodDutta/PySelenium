@@ -1,0 +1,158 @@
+1692166040342	geckodriver	INFO	Listening on 127.0.0.1:65174
+1692166040416	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofilesRysIW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692166041566	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 11:37:21.950 plugin-container[33785:34790906] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:37:21.951 plugin-container[33785:34790906] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:37:21.963 plugin-container[33785:34790906] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:37:21.963 plugin-container[33785:34790906] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:37:21.964 plugin-container[33785:34790904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:37:21.964 plugin-container[33785:34790904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692166042097	Marionette	INFO	Listening on port 65193
+Read port: 65193
+WebDriver BiDi listening on ws://127.0.0.1:65175
+1692166042444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:65175/devtools/browser/2e123222-f8c0-4055-92b7-b71ef833c9d1
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 396 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 4320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 6673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692166139256	geckodriver	INFO	Listening on 127.0.0.1:49349
+1692166139321	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileCT0jxV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692166140796	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692166141362	Marionette	INFO	Listening on port 49365
+2023-08-16 11:39:01.366 plugin-container[35286:34796572] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:39:01.368 plugin-container[35286:34796572] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49350
+2023-08-16 11:39:01.418 plugin-container[35286:34796572] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:39:01.418 plugin-container[35286:34796572] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:39:01.422 plugin-container[35286:34796589] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:39:01.422 plugin-container[35286:34796589] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49365
+1692166141809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:49350/devtools/browser/af644979-1363-4d6a-aba3-fc81621da2af
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 4073 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 5604 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 7183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-L8S7VBG1VB, line 405: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-L8S7VBG1VB:405:42
+get@https://www.googletagmanager.com/gtag/js?id=G-L8S7VBG1VB:403:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-L8S7VBG1VB:403:87
+aa.xk/c/<@https://www.googletagmanager.com/gtag/js?id=G-L8S7VBG1VB:403:412
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 72: Script terminated by timeout at:
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:842
+ld/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:93:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692166163955	Marionette	INFO	Stopped listening on port 65193
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692166273551	geckodriver	INFO	Listening on 127.0.0.1:50003
+1692166273618	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileDosV0e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692166274318	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 11:41:14.660 plugin-container[37262:34804680] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:41:14.660 plugin-container[37262:34804680] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:41:14.702 plugin-container[37262:34804680] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:41:14.702 plugin-container[37262:34804680] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:41:14.703 plugin-container[37262:34804688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:41:14.703 plugin-container[37262:34804688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692166274704	Marionette	INFO	Listening on port 50014
+Read port: 50014
+WebDriver BiDi listening on ws://127.0.0.1:50004
+1692166274984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:50004/devtools/browser/e572b0de-4657-4507-b8a2-f64361e3979c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 2530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 3222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 6335 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16576/sync.min.js, line 1: Script terminated by timeout at:
+sync16576_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16576/sync.min.js:1:30233
+
+1692166305705	Marionette	INFO	Stopped listening on port 50014
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/normandy-recipes-capabilities pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1692166351403	geckodriver	INFO	Listening on 127.0.0.1:50421
+1692166351473	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileimw0Wd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692166352266	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 11:42:32.551 plugin-container[38440:34809987] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:42:32.552 plugin-container[38440:34809987] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:42:32.559 plugin-container[38440:34809987] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:42:32.559 plugin-container[38440:34809987] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:42:32.560 plugin-container[38440:34810000] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:42:32.560 plugin-container[38440:34810000] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692166352571	Marionette	INFO	Listening on port 50432
+Read port: 50432
+WebDriver BiDi listening on ws://127.0.0.1:50422
+1692166352703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:50422/devtools/browser/8ff3293b-a9b4-419f-992b-819df2d78a96
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://c.amazon-adsystem.com/aax2/apstag.js, line 2: Script terminated by timeout at:
+t.prototype.sendRecords@https://c.amazon-adsystem.com/aax2/apstag.js:2:13523
+t.prototype.createRecordQueueInterval/this._queueIntervalID<@https://c.amazon-adsystem.com/aax2/apstag.js:2:12923
+
+1692166375692	Marionette	INFO	Stopped listening on port 50432
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692166415615	geckodriver	INFO	Listening on 127.0.0.1:50775
+1692166415673	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/rust_mozprofileuQSH4d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692166416327	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-08-16 11:43:36.613 plugin-container[39412:34814074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:43:36.614 plugin-container[39412:34814074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:43:36.623 plugin-container[39412:34814074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:43:36.623 plugin-container[39412:34814074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-08-16 11:43:36.623 plugin-container[39412:34814116] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-08-16 11:43:36.623 plugin-container[39412:34814116] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1692166416659	Marionette	INFO	Listening on port 50785
+WebDriver BiDi listening on ws://127.0.0.1:50776
+Read port: 50785
+1692166417002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:50776/devtools/browser/ec69c916-3d0f-483f-8350-7b6b1e3a7af1
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 7000 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+JavaScript warning: https://www.path2usa.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/dist/tracking.min.js?ver=2.3.1, line 1: Script terminated by timeout at:
+mouseOut@https://www.path2usa.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/dist/tracking.min.js?ver=2.3.1:1:6006
+
+1692166444036	Marionette	INFO	Stopped listening on port 50785
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692235331941	Marionette	INFO	Stopped listening on port 49365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

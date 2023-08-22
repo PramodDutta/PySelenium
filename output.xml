@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.3 on darwin)" generated="20230816 12:53:27.049" rpa="false" schemaversion="4">
+<suite id="s1" name="PySelenium" source="/Users/pramod/PycharmProjects/PySelenium">
+<suite id="s1-s1" name="Tests" source="/Users/pramod/PycharmProjects/PySelenium/tests">
+<suite id="s1-s1-s1" name="Code" source="/Users/pramod/PycharmProjects/PySelenium/tests/code">
+<suite id="s1-s1-s1-s1" name="Robotframeworkoverview" source="/Users/pramod/PycharmProjects/PySelenium/tests/code/robotframeworkoverview">
+<suite id="s1-s1-s1-s1-s1" name="Test 01 Rbf" source="/Users/pramod/PycharmProjects/PySelenium/tests/code/robotframeworkoverview/test_01_rbf.robot">
+<test id="s1-s1-s1-s1-s1-t1" name="Valid Login" line="10">
+<kw name="Open Browser To Login Page">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${LOGIN URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230816 12:53:27.430" level="INFO">Opening browser 'Chrome' to base url 'https://app.vwo.com/'.</msg>
+<status status="PASS" starttime="20230816 12:53:27.430" endtime="20230816 12:53:39.942"/>
+</kw>
+<kw name="Title Should Be" library="SeleniumLibrary">
+<arg>Login - VWO</arg>
+<doc>Verifies that the current page title equals ``title``.</doc>
+<msg timestamp="20230816 12:53:39.952" level="INFO">Page title is 'Login - VWO'.</msg>
+<status status="PASS" starttime="20230816 12:53:39.943" endtime="20230816 12:53:39.952"/>
+</kw>
+<status status="PASS" starttime="20230816 12:53:27.430" endtime="20230816 12:53:39.952"/>
+</kw>
+<kw name="Input Username">
+<arg>admin</arg>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>username</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230816 12:53:39.956" level="INFO">Typing text 'admin' into text field 'username'.</msg>
+<status status="PASS" starttime="20230816 12:53:39.954" endtime="20230816 12:53:40.109"/>
+</kw>
+<status status="PASS" starttime="20230816 12:53:39.953" endtime="20230816 12:53:40.109"/>
+</kw>
+<kw name="Input Password">
+<arg>admin</arg>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>password</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230816 12:53:40.110" level="INFO">Typing text 'admin' into text field 'password'.</msg>
+<status status="PASS" starttime="20230816 12:53:40.110" endtime="20230816 12:53:40.206"/>
+</kw>
+<status status="PASS" starttime="20230816 12:53:40.110" endtime="20230816 12:53:40.206"/>
+</kw>
+<kw name="Submit Credentials">
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>js-login-btn</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20230816 12:53:40.207" level="INFO">Clicking button 'js-login-btn'.</msg>
+<status status="PASS" starttime="20230816 12:53:40.207" endtime="20230816 12:53:40.307"/>
+</kw>
+<status status="PASS" starttime="20230816 12:53:40.206" endtime="20230816 12:53:40.307"/>
+</kw>
+<kw name="ERROR ON LOGIN PAGE">
+<kw name="Element Text Should Be" library="SeleniumLibrary">
+<arg>js-notification-box-msg</arg>
+<arg>Your email, password, IP address or location did not match</arg>
+<doc>Verifies that element ``locator`` contains exact the text ``expected``.</doc>
+<msg timestamp="20230816 12:53:40.309" level="INFO">Verifying element 'js-notification-box-msg' contains exact text 'Your email, password, IP address or location did not match'.</msg>
+<msg timestamp="20230816 12:53:40.511" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-3.png"&gt;&lt;img src="selenium-screenshot-3.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20230816 12:53:40.512" level="FAIL">The text of element 'js-notification-box-msg' should have been 'Your email, password, IP address or location did not match' but it was ''.</msg>
+<status status="FAIL" starttime="20230816 12:53:40.308" endtime="20230816 12:53:40.518"/>
+</kw>
+<status status="FAIL" starttime="20230816 12:53:40.308" endtime="20230816 12:53:40.519"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20230816 12:53:40.519" endtime="20230816 12:53:40.911"/>
+</kw>
+<status status="FAIL" starttime="20230816 12:53:27.429" endtime="20230816 12:53:40.912">The text of element 'js-notification-box-msg' should have been 'Your email, password, IP address or location did not match' but it was ''.</status>
+</test>
+<doc>Simple example using SeleniumLibrary.</doc>
+<status status="FAIL" starttime="20230816 12:53:27.103" endtime="20230816 12:53:40.914"/>
+</suite>
+<status status="FAIL" starttime="20230816 12:53:27.102" endtime="20230816 12:53:40.917"/>
+</suite>
+<status status="FAIL" starttime="20230816 12:53:27.100" endtime="20230816 12:53:40.919"/>
+</suite>
+<status status="FAIL" starttime="20230816 12:53:27.098" endtime="20230816 12:53:40.920"/>
+</suite>
+<status status="FAIL" starttime="20230816 12:53:27.054" endtime="20230816 12:53:40.922"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="PySelenium">PySelenium</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1" name="Tests">PySelenium.Tests</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1-s1" name="Code">PySelenium.Tests.Code</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1-s1-s1" name="Robotframeworkoverview">PySelenium.Tests.Code.Robotframeworkoverview</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1-s1-s1-s1" name="Test 01 Rbf">PySelenium.Tests.Code.Robotframeworkoverview.Test 01 Rbf</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
